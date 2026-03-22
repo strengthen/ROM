@@ -1,0 +1,137 @@
+# ==========================================
+# Standard Xcode / Swift / Objective-C
+# ==========================================
+
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.xccheckout
+*.xcscmblueprint
+xcuserdata/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+# Pods/
+# *.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+
+# ==========================================
+# macOS
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# ==========================================
+# Temporary files / IDEs
+# ==========================================
+*.swp
+*.swo
+*~
+.#*
+.idea/
+.vscode/
+
+
+# ==========================================
+# Python (if applicable in scripts)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+
+# ==========================================
+# Custom / Project Specific Rules
+# ==========================================
+
+# Local-only content (do not commit)
+UnableSubmit/
+
+# Exclude all Frameworks (to avoid large binaries)
+*.framework/
+*.framework
+
+# Specifically exclude known large files (>100MB)
+iROM/Core/iROM_MAMECore.framework/iROM_MAMECore
+iROM/Core/iROM_ScummVMCore.framework/iROM_ScummVMCore

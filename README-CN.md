@@ -10,3 +10,14 @@
 # 二、下载iOS端模拟器应用：iROM
 <a href='https://apps.apple.com/cn/app/irom/id6759823003'><img height='70' alt='Download from AppStore' src='https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg' /></a>
 > [iROM](https://apps.apple.com/cn/app/irom/id6759823003)
+
+# 三、iROM应用截图
+![1](./Picture/1.png)
+![2](./Picture/2.png)
+![3](./Picture/3.png)
+![4](./Picture/4.png)
+![5](./Picture/5.png)
+![6](./Picture/6.png)
+![7](./Picture/7.png)
+![8](./Picture/8.png)
+![9](./Picture/9.png)

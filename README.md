@@ -9,7 +9,7 @@
 
 # II. Download the iOS simulator app: iROM
 <a href='https://apps.apple.com/us/app/irom/id6759823003'><img height='70' alt='Download from AppStore' src='https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg' /></a>
-> [iROM](https://apps.apple.com/us/app/irom/id6759823003)
+> [iROM Video Tutorials](https://www.bilibili.com/video/BV1QRAWzyECm/)
 
 # III. iROM application screenshots
 ![1](./Picture/1.png)
